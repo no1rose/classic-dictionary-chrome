@@ -2,7 +2,7 @@
 
 # Classic Dictionary for Chrome
 
-Bring back Google's familiar dictionary card for definition, synonym, and antonym searches, and hide known AI answer panels on those searches.
+Bring back Google's old dictionary card for definition, synonym, and antonym searches, and hide AI answer panels on those searches.
 
 Classic Dictionary uses Google's actual Oxford dictionary card when Google provides it, preserving its native pronunciation, expansion, and similar/opposite-word controls.
 
@@ -37,7 +37,7 @@ Pin the extension through Chrome's puzzle-piece menu to access the on/off switch
 - Recognizes explicit English definition, meaning, synonym, antonym, opposite, and pronunciation searches.
 - Requests conventional Google results and promotes the original dictionary result above ordinary web results.
 - Preserves the existing dictionary node and its controls rather than generating definitions.
-- Hides known AI answer modules and the AI Mode navigation link on matching searches.
+- Hides AI answer modules and the AI Mode navigation link on matching searches.
 - Handles late-loading content and navigation within a search tab.
 - Displays an unavailable notice when Google does not return a dictionary card, with links to try a definition or open Merriam-Webster.
 

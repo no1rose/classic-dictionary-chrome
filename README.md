@@ -6,7 +6,7 @@ Bring back Google's old dictionary card for definition, synonym, and antonym sea
 
 Classic Dictionary uses Google's actual Oxford dictionary card when Google provides it, preserving its native pronunciation, expansion, and similar/opposite-word controls.
 
-**Early release:** Google controls dictionary availability and appearance. Restoration is not guaranteed for every word, account, or region. This project is not affiliated with Google or Oxford University Press.
+**Early release:** Google controls dictionary availability and appearance. Restoration is not guaranteed for every word, account, or region. This project is not affiliated with Google or Oxford University Press. Please leave feedback or report bugs so that I may rectify them.
 
 ## Install
 

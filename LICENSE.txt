@@ -1,0 +1,12 @@
+All Rights Reserved.
+
+Permission is granted to download and install this extension for personal use.
+No open-source license is granted. Except for that personal-use permission,
+rights provided by applicable law, or rights granted under GitHub's applicable
+platform terms, no permission is granted to modify, redistribute, sublicense,
+or sell this software without the rights holder's written permission.
+
+Third-party names, dictionary content, and trademarks remain subject to their
+respective owners' rights. This notice grants no rights to that content.
+
+The software is provided as is, without warranty, to the extent permitted by law.

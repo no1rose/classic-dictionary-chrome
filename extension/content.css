@@ -1,0 +1,8 @@
+/* Scoped to recognized dictionary searches. */
+html.cd-lookup [data-cd-ai-hidden],
+html.cd-lookup #Odp5De,
+html.cd-lookup #m-x-content,
+html.cd-lookup [data-attrid="AIOverview"],
+html.cd-lookup [data-attrid="ai_overview"],
+html.cd-lookup ai-overview,
+html.cd-lookup ai-mode-inline-card { display: none !important; }

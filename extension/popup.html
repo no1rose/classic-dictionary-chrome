@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Classic Dictionary</title><link rel="stylesheet" href="popup.css"></head>
+<body>
+  <header><span class="icon" aria-hidden="true">Aa</span><div><h1>Classic Dictionary</h1><p>The familiar word lookup.</p></div></header>
+  <label class="toggle"><span>Restore dictionary searches</span><input id="enabled" type="checkbox" checked role="switch"></label>
+  <p id="status" role="status">Checking this tab…</p>
+  <form id="lookup"><label for="word">Look up a word on Google</label><div class="search"><input id="word" name="word" placeholder="serendipity" maxlength="80" autocomplete="off" required><button type="submit" aria-label="Look up word">→</button></div></form>
+  <p class="note">Uses Google’s original Oxford card when available. Definitions, synonyms, antonyms, sound, and “Show more” stay in Google’s own interface.</p>
+  <footer>Lookups go to Google. No analytics or developer server.</footer>
+  <script src="core.js"></script><script src="popup.js"></script>
+</body>
+</html>
